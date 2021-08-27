@@ -1,9 +1,4 @@
-group: edge
 
-arch: 
-  - ppc64le
-  - s390x
-  
 os: linux
 dist: bionic
 
